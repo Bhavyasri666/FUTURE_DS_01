@@ -1,6 +1,8 @@
 An interactive E-Commerce Sales Dashboard built using CSV data parsing.
 It visualizes key business metrics such as sales, profit, orders, segments, regions, and customer behavior, providing meaningful business insights.
+
 📌 Project Overview:
+
 This project focuses on analyzing an e-commerce sales dataset to extract insights that help organizations:
 Understand sales performance
 Analyze customer behavior
@@ -25,7 +27,9 @@ Discount information
 Order date and time
 Customer or region details (if available)
 Dataset sourced from publicly available e-commerce data.
-🛠 Tools & Technologies
+
+🛠 Tools & Technologies:
+
 Python
 Pandas for data manipulation
 NumPy for numerical analysis
@@ -51,7 +55,9 @@ Highlighted high-revenue products and categories
 Identified underperforming segments
 Observed the impact of discounts on sales
 Provided recommendations based on data findings
+
 📈 Key Insights:
+
 Certain product categories contribute a major share of total revenue
 Sales peak during promotional or festive periods
 A small number of products generate a large portion of sales (Pareto principle)
