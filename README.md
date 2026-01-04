@@ -1,13 +1,13 @@
 An interactive E-Commerce Sales Dashboard built using CSV data parsing.
 It visualizes key business metrics such as sales, profit, orders, segments, regions, and customer behavior, providing meaningful business insights.
-📌 Project Overview
+📌 Project Overview:
 This project focuses on analyzing an e-commerce sales dataset to extract insights that help organizations:
 Understand sales performance
 Analyze customer behavior
 Identify product trends
 The goal is to clean, explore, and visualize real-world transactional data, supporting data-driven decision-making.
 
-🎯 Objectives
+🎯 Objectives:
 Analyze overall sales and revenue performance
 Identify top-performing products and categories
 Understand customer purchasing patterns
@@ -15,7 +15,7 @@ Study time-based sales trends
 Evaluate the effect of pricing and discounts
 Generate actionable business insights
 
-📂 Dataset Description
+📂 Dataset Description:
 The dataset contains real-world e-commerce transaction data, including:
 Order details
 Product category and product name
@@ -32,7 +32,7 @@ NumPy for numerical analysis
 Matplotlib and Seaborn for data visualization
 Jupyter Notebook / Google Colab
 
-🔍 Methodology
+🔍 Methodology:
 1. Data Cleaning and Preparation
 Removed missing and duplicate records
 Converted date columns into proper datetime format
@@ -51,13 +51,14 @@ Highlighted high-revenue products and categories
 Identified underperforming segments
 Observed the impact of discounts on sales
 Provided recommendations based on data findings
-📈 Key Insights (Sample)
+📈 Key Insights:
 Certain product categories contribute a major share of total revenue
 Sales peak during promotional or festive periods
 A small number of products generate a large portion of sales (Pareto principle)
 Moderate discounts often lead to higher sales volume compared to extreme discount
 
-📁 Project Structure
+📁 Project Structure:
+
 FUTURE_DS_01
 │
 ├── Datasets/
@@ -68,7 +69,8 @@ FUTURE_DS_01
 │   └── charts_and_insights.png
 └── README.md
 
-🎉 Outcome
+🎉 Outcome:
+
 This project transforms raw e-commerce data into clear business insights, helping stakeholders:
 Improve sales strategy
 Optimize product performance
@@ -76,8 +78,10 @@ Understand customer behavior
 Make informed business decisions
 It demonstrates skills in data cleaning, exploratory data analysis, visualization, and business interpretation.
 
-📌 Internship Context
+📌 Internship Context:
+
 This project was completed as Task 1 under the Future Interns – Data Analytics Internship Program.
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 Special thanks to Future Interns for providing this hands-on learning opportunity and exposure to real-world data analytics.
