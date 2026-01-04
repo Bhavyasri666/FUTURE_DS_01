@@ -77,10 +77,10 @@ FUTURE_DS_01
 
 🎉 Outcome:
 This project successfully transforms raw e-commerce data into clear business insights, helping stakeholders:
-✨ Improve sales strategy
-✨ Optimize product performance
-✨ Understand customer behavior
-✨ Make informed business decisions
+Improve sales strategy 
+Optimize product performance
+Understand customer behavior
+Make informed business decisions
 It demonstrates strong skills in:
 ✔ Data Cleaning
 ✔ EDA
@@ -89,10 +89,8 @@ It demonstrates strong skills in:
 
 📌 Internship Context:
 This project was completed as Task-1 under the
-Future Interns – Data Analytics Internship Program 🧑‍💻
+Future Interns – Data Analytics Internship Program
 
 🙌 Acknowledgements:
 Special thanks to Future Interns for the learning opportunity and real-world analytics exposure.
-Future Interns – Data Analytics Internship Program 🧑‍💻
-🙌 Acknowledgements
-Special thanks to Future Interns for the learning opportunity and real-world analytics exposure.
+
