@@ -1,7 +1,9 @@
 # FUTURE_DS_01
 The Ecommerce Sales Dash board is an interactive data visualization project built using sales data stored in csv files. That contains business information such as order details, product categories, pricing and customer insights.
 This project visualizes key business metrics such as sales, profit, orders, customer segments, regions, and purchasing behavior to generate meaningful business insights.
+
 📌 Project Overview:
+
 This project focuses on analyzing an e-commerce sales dataset to extract business insights that help organizations understand:
 ✔ Sales performance
 ✔ Customer behavior
