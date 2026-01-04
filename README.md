@@ -11,12 +11,12 @@ This project focuses on analyzing an e-commerce sales dataset to extract busines
 The goal is to apply data analytics techniques to clean, explore, and analyze real-world transactional data — and present insights that support data-driven decision-making.
 
 🎯 Objectives:
-📈 Analyze overall sales and revenue performance
-⭐ Identify top-performing products and categories
-👥 Understand customer purchasing patterns
-⏳ Study time-based sales trends
-💰 Evaluate the effect of pricing and discounts
-📊 Generate actionable business insights
+ Analyze overall sales and revenue performance
+ Identify top-performing products and categories
+ Understand customer purchasing patterns
+ Study time-based sales trends
+ Evaluate the effect of pricing and discounts
+ Generate actionable business insights
 
 📂 Dataset Description:
 The dataset contains real-world e-commerce transaction details, including:
